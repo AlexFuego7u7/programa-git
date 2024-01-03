@@ -1,0 +1,18 @@
+/*Selector universal*/
+*{
+    color:green;
+}
+li{
+    color:blue;
+}
+/*ID*/
+#selector{
+    color:purple;
+}
+
+.clase1{
+    /*cambiar tamaño de letra por clases*/
+    font-size: 30px;
+    /*Tipo de letra*/
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
